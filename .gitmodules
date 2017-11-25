@@ -18,3 +18,11 @@
 	path = PowerShell/p0wnedShell
 	url = https://github.com/Cn33liz/p0wnedShell
 	branch = master
+[submodule "PowerShell/PSRecon"]
+	path = PowerShell/PSRecon
+	url = https://github.com/gfoss/PSRecon/
+	branch = master
+[submodule "PowerShell/PowerShell-Suite"]
+	path = PowerShell/PowerShell-Suite
+	url = https://github.com/FuzzySecurity/PowerShell-Suite/
+	branch = master
