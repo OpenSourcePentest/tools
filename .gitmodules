@@ -62,3 +62,7 @@
 	path = Exploitation/metasploit-framework
 	url = https://github.com/rapid7/metasploit-framework
 	branch = master
+[submodule "Exploitation/Nosql-Exploitation-Framework"]
+	path = Exploitation/Nosql-Exploitation-Framework
+	url = https://github.com/torque59/Nosql-Exploitation-Framework
+	branch = master
