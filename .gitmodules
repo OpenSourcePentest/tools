@@ -26,3 +26,31 @@
 	path = PowerShell/PowerShell-Suite
 	url = https://github.com/FuzzySecurity/PowerShell-Suite/
 	branch = master
+[submodule "Web/nikto"]
+	path = Web/nikto
+	url = https://github.com/sullo/nikto
+	branch = master
+[submodule "Web/wfuzz"]
+	path = Web/wfuzz
+	url = https://github.com/xmendez/wfuzz
+	branch = master
+[submodule "Web/sqlmap"]
+	path = Web/sqlmap
+	url = https://github.com/sqlmapproject/sqlmap
+	branch = master
+[submodule "Web/sqlmate"]
+	path = Web/sqlmate
+	url = https://github.com/UltimateHackers/sqlmate
+	branch = master
+[submodule "Web/beef"]
+	path = Web/beef
+	url = https://github.com/beefproject/beef
+	branch = master
+[submodule "Web/wpscan"]
+	path = Web/wpscan
+	url = https://github.com/wpscanteam/wpscan
+	branch = master
+[submodule "Web/arachni"]
+	path = Web/arachni
+	url = https://github.com/Arachni/arachni
+	branch = master
