@@ -54,3 +54,11 @@
 	path = Web/arachni
 	url = https://github.com/Arachni/arachni
 	branch = master
+[submodule "Exploitation/routersploit"]
+	path = Exploitation/routersploit
+	url = https://github.com/reverse-shell/routersploit
+	branch = master
+[submodule "Exploitation/metasploit-framework"]
+	path = Exploitation/metasploit-framework
+	url = https://github.com/rapid7/metasploit-framework
+	branch = master
