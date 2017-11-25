@@ -1,0 +1,20 @@
+[submodule "PowerShell/Empire"]
+	path = PowerShell/Empire
+	url = https://github.com/EmpireProject/Empire
+	branch = master
+[submodule "PowerShell/BloodHound"]
+	path = PowerShell/BloodHound
+	url = https://github.com/BloodHoundAD/BloodHound
+	branch = master
+[submodule "PowerShell/PowerSploit"]
+	path = PowerShell/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit
+	branch = master
+[submodule "PowerShell/mimikittenz"]
+	path = PowerShell/mimikittenz
+	url = https://github.com/putterpanda/mimikittenz
+	branch = master
+[submodule "PowerShell/p0wnedShell"]
+	path = PowerShell/p0wnedShell
+	url = https://github.com/Cn33liz/p0wnedShell
+	branch = master
