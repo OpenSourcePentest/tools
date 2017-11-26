@@ -94,3 +94,11 @@
 	path = Cracking/princeprocessor
 	url = https://github.com/hashcat/princeprocessor
 	branch = master
+[submodule "Windows/Windows-Exploit-Suggester"]
+	path = Windows/Windows-Exploit-Suggester
+	url = https://github.com/GDSSecurity/Windows-Exploit-Suggester
+	branch = master
+[submodule "Windows/Winpayloads"]
+	path = Windows/Winpayloads
+	url = https://github.com/nccgroup/Winpayloads
+	branch = master
