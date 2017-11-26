@@ -66,3 +66,31 @@
 	path = Exploitation/Nosql-Exploitation-Framework
 	url = https://github.com/torque59/Nosql-Exploitation-Framework
 	branch = master
+[submodule "Cracking/JohnTheRipper"]
+	path = Cracking/JohnTheRipper
+	url = https://github.com/magnumripper/JohnTheRipper
+	branch = bleeding-jumbo
+[submodule "Cracking/hashcat"]
+	path = Cracking/hashcat
+	url = https://github.com/hashcat/hashcat.git
+	branch = master
+[submodule "Cracking/hashcat-utils"]
+	path = Cracking/hashcat-utils
+	url = https://github.com/hashcat/hashcat-utils
+	branch = master
+[submodule "Cracking/maskprocessor"]
+	path = Cracking/maskprocessor
+	url = https://github.com/hashcat/maskprocessor
+	branch = master
+[submodule "Cracking/statsprocessor"]
+	path = Cracking/statsprocessor
+	url = https://github.com/hashcat/statsprocessor
+	branch = master
+[submodule "Cracking/kwprocessor"]
+	path = Cracking/kwprocessor
+	url = https://github.com/hashcat/kwprocessor
+	branch = master
+[submodule "Cracking/princeprocessor"]
+	path = Cracking/princeprocessor
+	url = https://github.com/hashcat/princeprocessor
+	branch = master
