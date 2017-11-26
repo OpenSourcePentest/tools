@@ -102,3 +102,11 @@
 	path = Windows/Winpayloads
 	url = https://github.com/nccgroup/Winpayloads
 	branch = master
+[submodule "Linux/linux-exploit-suggester"]
+	path = Linux/linux-exploit-suggester
+	url = https://github.com/mzet-/linux-exploit-suggester
+	branch = master
+[submodule "Linux/linux-exploit-suggester-2"]
+	path = Linux/linux-exploit-suggester-2
+	url = https://github.com/jondonas/linux-exploit-suggester-2
+	branch = master
