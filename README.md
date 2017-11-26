@@ -8,6 +8,13 @@ You need to clone with --recursive flags:
 git clone --recursive https://github.com/OpenSourcePentest/tools
 ```
 
+## Updating all tools
+
+You need to update all submodules with recurse and remote option:
+```
+git submodule update --recursive --remote
+```
+
 ## Adding new tools
 
 ```
