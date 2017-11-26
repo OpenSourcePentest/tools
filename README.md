@@ -21,6 +21,11 @@ git submodule update --recursive --remote
 git submodule add -b master https://github.com/PowerShellMafia/PowerSploit
 ```
 
+## Requirements
+
+Make sure you have:
+- git 1.8.2
+
 ##  TODO
 
 ### Things to discuss
