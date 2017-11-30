@@ -1,7 +1,3 @@
-[submodule "PowerShell/Empire"]
-	path = PowerShell/Empire
-	url = https://github.com/EmpireProject/Empire
-	branch = master
 [submodule "PowerShell/BloodHound"]
 	path = PowerShell/BloodHound
 	url = https://github.com/BloodHoundAD/BloodHound
@@ -24,7 +20,7 @@
 	branch = master
 [submodule "PowerShell/PowerShell-Suite"]
 	path = PowerShell/PowerShell-Suite
-	url = https://github.com/FuzzySecurity/PowerShell-Suite/
+	url = https://github.com/FuzzySecurity/PowerShell-Suite
 	branch = master
 [submodule "Web/nikto"]
 	path = Web/nikto
