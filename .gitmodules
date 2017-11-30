@@ -110,3 +110,7 @@
 	path = Linux/linux-exploit-suggester-2
 	url = https://github.com/jondonas/linux-exploit-suggester-2
 	branch = master
+[submodule "PowerShell/Invoke-TheHash"]
+	path = PowerShell/Invoke-TheHash
+	url = https://github.com/Kevin-Robertson/Invoke-TheHash
+	branch = master
