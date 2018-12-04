@@ -114,3 +114,11 @@
 	path = Web/dirhunt
 	url = https://github.com/Nekmo/dirhunt
 	branch = master
+[submodule "Wordlists/google-10000-english"]
+	path = Wordlists/google-10000-english
+	url = https://github.com/first20hours/google-10000-english
+	branch = master
+[submodule "Wordlists/english-words"]
+	path = Wordlists/english-words
+	url = https://github.com/dwyl/english-words/
+	branch = master
