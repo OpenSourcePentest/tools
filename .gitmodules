@@ -110,3 +110,7 @@
 	path = PowerShell/Invoke-TheHash
 	url = https://github.com/Kevin-Robertson/Invoke-TheHash
 	branch = master
+[submodule "Web/dirhunt"]
+	path = Web/dirhunt
+	url = https://github.com/Nekmo/dirhunt
+	branch = master
